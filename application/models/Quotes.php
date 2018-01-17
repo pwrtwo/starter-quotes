@@ -15,8 +15,8 @@ class Quotes extends CI_Model
 	var $data = array(
 		'1'	 => array('who'	 => 'Mel Brooks', 'role'	 => 'Yogurt',
 			'what'	 => 'May the schwartz be with you!'),
-                '2'	 => array('who'	 => 'Mel Gibson', 'role'	 => 'Zogurt',
-			'what'	 => 'May the da wae be with you!'),
+                '2'	 => array('who'	 => 'Zogurt', 'role'	 => 'Mel Gibson',
+			'what'	 => 'May da wae be with you!'),
 		'3'	 => array('who'	 => 'John Candy', 'role'	 => 'Barf',
 			'what'	 => 'It\'s her royal highness\'s matched luggage!'),
 		'4'	 => array('who'	 => 'Rick Moranis', 'role'	 => 'Dark Helmet',
