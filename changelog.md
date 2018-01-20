@@ -11,3 +11,5 @@ added new picture and quote
 added a tooltip to show the author's name and role, when moused over
 
 made the images clickable
+
+added a description under single picture
